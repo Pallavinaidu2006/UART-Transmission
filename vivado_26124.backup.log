@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Feb  9 14:30:05 2026
+# Process ID: 26124
+# Current directory: C:/Users/palla/OneDrive/Desktop/pallavi/transmitter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21980 C:\Users\palla\OneDrive\Desktop\pallavi\transmitter\transmitter.xpr
+# Log file: C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/vivado.log
+# Journal file: C:/Users/palla/OneDrive/Desktop/pallavi/transmitter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/transmitter.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Janga/OneDrive/Desktop/pallavi/transmitter' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:15 . Memory (MB): peak = 1017.086 ; gain = 127.922
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb  9 14:31:48 2026...
+ve/Desktop/pallavi/transmitter/transmitter.cache/wt' already exists, is a directory, but is not writable.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb  9 14:31:56 2026...

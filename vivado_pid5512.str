@@ -1,0 +1,108 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 5512
+License: Customer
+
+Current time: 	Mon Feb 09 15:14:39 IST 2026
+Time zone: 	India Standard Time (Asia/Calcutta)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1280x800
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 265 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	palla
+User home directory: C:/Users/palla
+User working directory: C:/Users/palla/OneDrive/Desktop/pallavi/transmitter
+User country: 	IN
+User language: 	en
+User locale: 	en_IN
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.2
+RDI_DATADIR: C:/Xilinx/Vivado/2018.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/palla/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/palla/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/palla/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/vivado.log
+Vivado journal file location: 	C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/vivado.jou
+Engine tmp dir: 	C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/.Xil/Vivado-5512-LAPTOP-4CN6B65J
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.2
+XILINX_SDK: C:/Xilinx/SDK/2018.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.2
+
+
+GUI allocated memory:	151 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 781 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 56 MB (+56422kb) [00:00:20]
+// [Engine Memory]: 781 MB (+667871kb) [00:00:20]
+// bx (ck):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\palla\OneDrive\Desktop\pallavi\transmitter\transmitter.xpr. Version: Vivado v2018.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/transmitter.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_FAILED
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/palla/OneDrive/Desktop/pallavi/transmitter/transmitter.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 822 MB. GUI used memory: 33 MB. Current time: 2/9/26 3:14:41 PM IST
+// [Engine Memory]: 822 MB (+1944kb) [00:00:24]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 874 MB (+10795kb) [00:00:30]
+// [Engine Memory]: 918 MB (+689kb) [00:00:37]
+// [GUI Memory]: 59 MB (+146kb) [00:00:38]
+// HMemoryUtils.trashcanNow. Engine heap size: 918 MB. GUI used memory: 38 MB. Current time: 2/9/26 3:14:59 PM IST
+// Tcl Message: open_project: Time (s): cpu = 00:00:24 ; elapsed = 00:00:20 . Memory (MB): peak = 974.270 ; gain = 110.559 
+// Project name: transmitter; location: C:/Users/palla/OneDrive/Desktop/pallavi/transmitter; part: xc7a35tcpg236-1
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 414ms to process. Increasing delay to 3000 ms.
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 62 MB (+72kb) [00:03:00]
+// [GUI Memory]: 66 MB (+323kb) [00:06:12]
+// [GUI Memory]: 70 MB (+760kb) [00:09:54]
